@@ -48,7 +48,7 @@ public class RepoOfFrontAccounting {
 	    	password.clear();
 	    }
 		public void Enterpassword(String password) {
-			password.sendkyes (password);
+			password.sendKeys(password);
 		}
 	    public void login () {
 	    	Loginbtn.click();
